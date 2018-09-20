@@ -1,7 +1,7 @@
 {
-  "name": "bikelens",
+  "name": "vue-webpack4-typescript-example",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A Vue.js project starter as example for using Webpack4 and Typescript with Vue",
   "author": "Ryan Hayes <ryan@ryanhayes.net>",
   "private": true,
   "scripts": {
