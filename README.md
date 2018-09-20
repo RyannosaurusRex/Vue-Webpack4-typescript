@@ -1,6 +1,6 @@
 # Vue Webpack4 Typescript Example
 
-> This is an example of a `vue init webkit ______` starter kit app that has been upgraded to use Webpack4 and typescript.  When updating to Webpack 4, the way CSS is extracted changed from a plugin to an optimizer within Webpack itself, so that update was made.  In addition, the Babel loaded was replaced with ts-loader to allow the use of typescript in your files (.vue and the main app .js files were updated to .ts). Further, the es-linter was replaced with the ts-linter to allow linting to continue.
+This is an example of a `vue init webkit ______` starter kit app that has been upgraded to use Webpack4 and typescript.  When updating to Webpack 4, the way CSS is extracted changed from a plugin to an optimizer within Webpack itself, so that update was made.  In addition, the Babel loaded was replaced with ts-loader to allow the use of typescript in your files (.vue and the main app .js files were updated to .ts). Further, the es-linter was replaced with the ts-linter to allow linting to continue.
 
 ## Build Setup
 
